@@ -10,6 +10,7 @@
       * [保健](#保健)
       * [中医](#中医)
          * [中医教材](#中医教材)
+		 * [中医经典](#中医经典)
          * [中草药](#中草药)
          * [医学科普](#医学科普)
          * [推拿](#推拿)
@@ -20,19 +21,44 @@
       * [国学](#国学)
       * [地理](#地理)
       * [书法](#书法)
+      * [励志](#励志)      
       
 # 经典软件
 
 [PDF编辑器 Adobe_Acrobat_Pro9_160215.rar](https://home.pipipan.com/#item-files/action-index/folder_id-29785334)
 
 [secureCRT 7.2](https://itbooks.pipipan.com/fs/18113597-310081425)
+
+[风水书籍汇总](https://china-testing.github.io/fengshui_books.html)
      
 
 # 社科书籍	
 
+[管理大师稻盛和夫经典收藏版共6册 《拯救人类的哲学》、《干法》、《领导者的资质》《调动员工积极性的七个关键》、《阿米巴经营（实战篇）》《稻盛和夫语录100条》》](https://www.jianshu.com/p/ce45304358be)
+
+[书籍: 上海读客 知行合一王阳明大合集(1+2+3+传习录)](https://www.jianshu.com/p/678ac669c2d5)
+
+[书籍: 图解易经中的数学梅花易数 - 2007.pdf 故宫珍藏善本：梅花易数 - 2012.pdf](https://www.jianshu.com/p/11b741d90e28)
+
+[月亮与六便士(全本未删节插图珍藏版，毛姆经典代表作2017全新畅销译本)(作家榜推荐).pdf](https://itbooks.pipipan.com/fs/18113597-368444414)
+
+[原则(华尔街投资人、桥水公司创始人雷·达里奥白手起家40多年的生活与工作原则)-2018.pdf](https://itbooks.pipipan.com/fs/18113597-368444404)
+
+[三体全集-2012.pdf](https://itbooks.pipipan.com/fs/18113597-368444375)
+
+[债务危机 - 2019.pdf](https://itbooks.pipipan.com/fs/18113597-368444327)
+
+[人类简史：从动物到上帝 - 2014.pdf](https://itbooks.pipipan.com/fs/18113597-368444198)
+
+[见识城邦·童年的消逝 - 2015.pdf](https://itbooks.pipipan.com/fs/18113597-368444177)
+
+
+
 ## 保健
 
 [图解八段锦、五禽戏、易筋经-《国医绝学健康馆》编委会.pdf](https://itbooks.pipipan.com/fs/18113597-313704156)
+
+[“三高”怎么吃怎么养](https://sn9.us/file/18113597-410429507)
 
 
 ## 中医
@@ -48,7 +74,18 @@
 
 [中药学-中医药出版社 十版 大学教材.pdf](https://itbooks.pipipan.com/fs/18113597-308188125)
 
+[推拿学-中医药出版社 十版 大学教材.pdf](https://sn9.us/file/18113597-410967247)
 
+[中医基础理论-中医药出版社 十版 大学教材.pdf](https://sn9.us/file/18113597-410967245)
+
+[新编中医儿科学.epub](https://sn9.us/file/18113597-410971369)
+
+### 中医经典
+
+[医学心悟 (中医临床必读丛书) - 2006.pdf](https://itbooks.pipipan.com/fs/18113597-375127871)
+ 
+[医学心悟 (新安医学名著丛书) - 2009.pdf](https://itbooks.pipipan.com/fs/18113597-375127820)
+ 
 
 ### 中草药
 
@@ -93,7 +130,7 @@
 
 [推拿排毒一身轻 \- 2010.pdf](https://itbooks.pipipan.com/fs/18113597-314728506) 亚马逊4.0星 9评论
 
-[推拿研究与应用 \- 2010.pdf](https://itbooks.pipipan.com/fs/18113597-314728539)
+[推拿研究与应用 \- 2010.pdf](https://itbooks.pipipan.com/fs/18113597-314728539) [介绍](https://www.jianshu.com/p/4d96e6e6f556)
 
 [李少波真气运行针灸推拿实践 \- 2012.pdf](https://itbooks.pipipan.com/fs/18113597-314728551) 亚马逊4.5星 12评论
 
@@ -105,7 +142,7 @@
 
 [海派儿科推拿 2017.pdf](https://itbooks.pipipan.com/fs/18113597-314557878)
 
-[针灸推拿一学就会 \- 2009.pdf](https://itbooks.pipipan.com/fs/18113597-314728489)
+[针灸推拿一学就会 \- 2009.pdf](https://itbooks.pipipan.com/fs/18113597-314728489) [介绍](https://www.jianshu.com/p/e1cc78e210f5)
 
 [零基础学会推拿按摩 \- 2015.pdf](https://itbooks.pipipan.com/fs/18113597-314557891) 亚马逊4.2星 13评论
 
@@ -113,7 +150,7 @@
 
 [图解刮痧拔罐疗法 \- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-314933874)
 
-[手到病自消全集．2，拔罐、刮痧、艾灸、贴敷祛百病 - 2015.pdf](https://itbooks.pipipan.com/fs/18113597-314933790)
+[手到病自消全集．2，拔罐、刮痧、艾灸、贴敷祛百病 - 2015.pdf](https://itbooks.pipipan.com/fs/18113597-314933790) [介绍](https://www.jianshu.com/p/eff6c3b25795)
 
 [手到病自除 1——刮痧、拔罐、艾灸、贴敷养生自愈法 - 2016.pdf](https://itbooks.pipipan.com/fs/18113597-314933352) 亚马逊4.0 18 
 
@@ -126,6 +163,8 @@
 [刮痧消百病 \- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-314933188)
 
 [刮痧拔罐针灸 \- 2015.pdf](https://itbooks.pipipan.com/fs/18113597-314933139)
+
+[中医养生大宝典 - 2009.pdf](https://itbooks.pipipan.com/fs/18113597-314728528) [介绍](https://www.jianshu.com/p/4d96e6e6f556)
 
 ### 拔罐刮痧
 
@@ -146,11 +185,11 @@
 
 - [李志刚教授之拔罐养生全程指导 (中医堂) \- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-317261685)
 
-- [刮痧拔罐祛百病 (国医绝学健康馆) \- 2012.pdf](https://itbooks.pipipan.com/fs/18113597-317261628) 亚马逊4.0 153
+- [刮痧拔罐祛百病 (国医绝学健康馆) \- 2012.pdf](https://itbooks.pipipan.com/fs/18113597-317261628) 亚马逊4.0 153 [介绍](https://www.jianshu.com/p/93f60ed84f5f)
 
 - [拔罐治病一招灵一招灵系列 -2009.pdf](https://itbooks.pipipan.com/fs/18113597-317261616)
 
-- [拔罐祛病看这本就够 \- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-317261604) 亚马逊4.5 40
+- [拔罐祛病看这本就够 \- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-317261604) 亚马逊4.5 40 [介绍](https://www.jianshu.com/p/93f60ed84f5f)
 
 
 
@@ -164,17 +203,17 @@
 
 [一用就灵的名医偏方1000例(畅销升级版) (图说生活) - 2012.pdf](https://itbooks.pipipan.com/fs/18113597-317223559)
 
-[一本书读懂偏方验方治病 (医药科普丛书)一本书读懂偏方验方治病 (医药科普丛书) \- 2013.pdf](https://itbooks.pipipan.com/fs/18113597-317223552)
+[一本书读懂偏方验方治病 (医药科普丛书)一本书读懂偏方验方治病 (医药科普丛书) \- 2013.pdf](https://itbooks.pipipan.com/fs/18113597-317223552) [介绍](https://www.jianshu.com/p/10d89b946f09)
 
-[小偏方治大病：巧医妇科常见病 \- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-317223549)
+[小偏方治大病：巧医妇科常见病 \- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-317223549) [介绍](https://www.jianshu.com/p/9646d24a8104)
 
 [小偏方治百病 (国医绝学健康馆) \- 2010.pdf](https://itbooks.pipipan.com/fs/18113597-317223544) 亚马逊4.5星 162评论
 
 [小偏方大功效 \- 2013.pdf](https://itbooks.pipipan.com/fs/18113597-317223540)
 
-[外公是个老中医2--日常小病不用慌的经典老偏方- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-317223537)
+[外公是个老中医2--日常小病不用慌的经典老偏方- 2014.pdf](https://itbooks.pipipan.com/fs/18113597-317223537)  [介绍](https://www.jianshu.com/p/10d89b946f09)
 
-[外公是个老中医：全家烦恼一扫光的经典老偏方 \- 2013.pdf](https://itbooks.pipipan.com/fs/18113597-317223529)
+[外公是个老中医：全家烦恼一扫光的经典老偏方 \- 2013.pdf](https://itbooks.pipipan.com/fs/18113597-317223529) [介绍](https://www.jianshu.com/p/f9e352c36222)
 
 [实用偏方秘方 \- 2007.pdf](https://itbooks.pipipan.com/fs/18113597-317223528)
 
@@ -184,7 +223,7 @@
 
 [民间乡野古方偏方4000首 - 2012.pdf](https://itbooks.pipipan.com/fs/18113597-317223507)
 
-[妈妈传下来的美颜小偏方：两代美女中医跨越30年的养颜精华 - 2012.pdf](https://itbooks.pipipan.com/fs/18113597-317223504)
+[妈妈传下来的美颜小偏方：两代美女中医跨越30年的养颜精华 - 2012.pdf](https://itbooks.pipipan.com/fs/18113597-317223504) [介绍](https://www.jianshu.com/p/e1cc78e210f5)
 
 [老中医的传世小偏方：全家都能用的日常小病治疗秘方 \- 2016.pdf](https://itbooks.pipipan.com/fs/18113597-317223496)
 
@@ -208,7 +247,7 @@
 
   [救护车到来前，你能做什么？ \- 2016 4-10.pdf](https://itbooks.pipipan.com/fs/18113597-318827545)
 
-  [紧急救助员实用应急技术 \- 2008 3.5 2.pdf](https://itbooks.pipipan.com/fs/18113597-318827544)
+  [紧急救助员实用应急技术 \- 2008 3.5 2.pdf](https://itbooks.pipipan.com/fs/18113597-318827544) [介绍](https://www.jianshu.com/p/3bfbf4da161d)
 
   [家庭急救百问百答 (“金阳光”新农村丛书) \- 2010.pdf](https://itbooks.pipipan.com/fs/18113597-318827541)
 
@@ -269,7 +308,7 @@
 
 [国医精华·宫廷养生与美容 \- 2009.pdf](https://itbooks.pipipan.com/fs/18113597-319042503)
 
-[爱美需要偏执——《时尚芭莎》美容专栏精选 \- 2013.pdf](https://itbooks.pipipan.com/fs/18113597-319042500)
+[爱美需要偏执——《时尚芭莎》美容专栏精选 \- 2013.pdf](https://itbooks.pipipan.com/fs/18113597-319042500) [介绍](https://www.jianshu.com/p/eff6c3b25795)
 
 [8090都在偷偷看的美容书 - 2015.pdf](https://itbooks.pipipan.com/fs/18113597-319042498)
 
@@ -299,6 +338,8 @@
 [艾灸祛病看这本就够 \- 2012 4.5星 41评.pdf](https://itbooks.pipipan.com/fs/18113597-317550031)
 
 [艾灸疗法治百病（第2版） (中国民间传统疗法丛书) - 2009.pdf](https://itbooks.pipipan.com/fs/18113597-317549982)
+
+[图解掌纹健康密码 - 2010.pdf](https://itbooks.pipipan.com/fs/18113597-319645716) [介绍](https://www.jianshu.com/p/9646d24a8104)
 
 ## 国学
 
@@ -391,6 +432,9 @@
 
 [敦煌古代书法艺术 \- 2008.pdf](https://itbooks.pipipan.com/fs/18113597-317105598) 
 
+## 励志
+
+[终身成长-2017](https://sn9.us/file/18113597-410667858) 
 
 
  * [python3快速入门教程1 turtle绘图-1开始](https://china-testing.github.io/python3_crash1.html)
@@ -402,6 +446,4 @@
 * 技术支持qq群： 144081101(后期会录制视频存在该群群文件) 591302926 567351477 钉钉免费群：21745728 
 
 * 道家技术-手相手诊看相中医等钉钉群21734177 qq群：391441566 184175668 338228106 看手相、面相、舌相、抽签、体质识别。服务费50元每人次起。请联系钉钉或者微信pythontesting
-
-![休息一下，领领红包，祝你中大奖](https://github.com/china-testing/python-api-tesing/blob/master/hongbao.png)
 
