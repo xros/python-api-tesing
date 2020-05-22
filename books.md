@@ -406,6 +406,8 @@
 
 [书籍：python自然语言处理(PyTorch) Natural Language Processing with PyTorch - 2019](https://www.jianshu.com/p/001938f92fdb)
 
+[书籍：使用Python和spaCy进行自然语言处理 Natural Language Processing with Python and spaCy.pdf](https://t00y.com/file/18113597-441459686)
+
 [书籍：python游戏编码 Coding Games in Python - 2018](https://www.jianshu.com/p/e9fb0185e688)
 
 [书籍：python图像处理 Image Operators - Image Processing in Python - 2019](https://www.jianshu.com/p/baf6d12be2d3)
@@ -449,6 +451,8 @@ Daniel Arbuckle's Mastering Python - 2017.pdf
 
 
 ### python performance
+
+[python高手的单行绝杀 Python One-Liners - Christian Mayer.pdf](https://t00y.com/file/18113597-440390309)
 
 [Learning Cython Programming(2nd).pdf](https://u18113597.pipipan.com/fs/18113597-304585876)
 
@@ -535,6 +539,8 @@ Test-Driven Development with Python, 2nd Edition - 2017 qq群144081101共享
 
 
 ### 数据分析
+
+[数据科学家职业生涯 Build A Career in Data Science.pdf](https://t00y.com/file/18113597-435268927)
 
 #### pandas
 
@@ -1300,7 +1306,9 @@ Test-Driven Development with Python, 2nd Edition - 2017 qq群144081101共享
 
 [书籍：流程的永恒之道](https://www.jianshu.com/p/435cf0fd9ce9) -  [下载](https://itbooks.pipipan.com/fs/18113597-384173739)
 
+## 其他
 
+[管理外包IT服务 Managing Your Outsourced IT Services Provider How to Unleas.pdf](https://t00y.com/file/18113597-435268934)  
 
 * 技术支持qq群： 144081101(后期会录制视频存在该群群文件) 591302926 567351477 钉钉免费群：21745728 
 
